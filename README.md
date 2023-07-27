@@ -6,6 +6,9 @@
 - start virtual environment
 - Install Django
 - startproject mysite
+- startapp website
+- add website to INSTALLED_APPS in settings.py
+- urls.py
 
 ## References
 
