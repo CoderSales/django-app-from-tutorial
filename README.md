@@ -9,6 +9,8 @@
 - startapp website
 - add website to INSTALLED_APPS in settings.py
 - urls.py
+- cd mysite
+- python manage.py runserver
 
 ## References
 
